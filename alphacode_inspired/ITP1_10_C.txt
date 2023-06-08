@@ -1,0 +1,44 @@
+TAGS: 
+LANGUAGE IS python3
+CORRECT SOLUTION
+You have final scores of an examination for $n$ students. Calculate standard deviation of the scores $s_1$, $s_2$ ... $s_n$.
+The variance $\alpha^2$ is defined by
+
+$\alpha^2 = (\sum_{i=1}^{n} (s_i - m)^2)/n$
+
+where $m$ is an average of $s_i$.
+The standard deviation of the scores is the square root of their variance.
+
+Input
+
+The input consists of multiple datasets. Each dataset is given in the following format:
+
+$n$
+$s_1$ $s_2$ ... $s_n$
+
+The input ends with single zero for n.
+
+  * $n < 1000$
+  * $0 < s_i < 100$
+
+Output
+
+For each dataset, print the standard deviation in a line. The output should not contain an absolute error greater than $10^{-4}$.
+
+Examples
+
+Input
+
+
+5
+70 80 100 90 20
+3
+80 80 80
+0
+
+
+Output
+
+
+27.85677655
+0.00000000

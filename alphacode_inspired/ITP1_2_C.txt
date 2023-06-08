@@ -1,0 +1,26 @@
+TAGS: 
+LANGUAGE IS python3
+CORRECT SOLUTION
+Write a program which reads three integers, and prints them in ascending order.
+
+Input
+
+Three integers separated by a single space are given in a line.
+
+  * $1 \leq$ the three integers $\leq 10000$
+
+Output
+Print the given integers in ascending order in a line. Put a single space between two integers.
+
+Examples
+
+Input
+
+
+3 8 1
+
+
+Output
+
+
+1 3 8

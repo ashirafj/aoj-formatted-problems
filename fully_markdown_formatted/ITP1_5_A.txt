@@ -1,0 +1,49 @@
+# Problem
+
+Draw a rectangle which has a height of $H$ cm and a width of $W$ cm. Draw a 1-cm square by single '#'.
+
+## Input
+
+The input consists of multiple datasets. Each dataset consists of two integers $H$ and $W$ separated by a single space.
+
+The input ends with two 0 (when both $H$ and $W$ are zero). 
+
+## Output
+
+For each dataset, print the rectangle made of $H \times W$ '#'.
+
+Print a blank line after each dataset.
+
+## Constraints
+
+$1 \leq H \leq 300$
+
+$1 \leq W \leq 300$
+
+## Examples
+
+### Input
+
+```
+3 4
+5 6
+2 2
+0 0
+```
+
+### Output
+
+```
+####
+####
+####
+
+######
+######
+######
+######
+######
+
+##
+##
+```

@@ -1,0 +1,18 @@
+Write a program which converts uppercase/lowercase letters to lowercase/uppercase for a given string.
+
+-----Input-----
+
+A string is given in a line.
+
+The length of the input string $< 1200$
+
+-----Output-----
+
+Print the converted string in a line. Note that you do not need to convert any characters other than alphabetical letters.
+
+-----Example-----
+Input
+fAIR, LATER, OCCASIONALLY CLOUDY.
+
+Output
+Fair, later, occasionally cloudy.

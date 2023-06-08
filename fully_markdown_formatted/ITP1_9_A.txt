@@ -1,0 +1,41 @@
+# Problem
+
+Write a program which reads a word $W$ and a text $T$, and prints the number of word $W$ which appears in text $T$
+
+$T$ consists of string $T_i$ separated by space characters and newlines. Count the number of $T_i$ which equals to $W$. The word and text are case insensitive.
+
+## Constraints
+
+The length of $W \leq 10$
+
+$W$ consists of lower case letters
+
+The length of $T$ in a line $\leq 1000$
+
+## Input
+
+In the first line, the word $W$ is given. In the following lines, the text $T$ is given separated by space characters and newlines.
+
+"END_OF_TEXT" indicates the end of the text.
+
+## Output
+
+Print the number of $W$ in the text.
+
+## Examples
+
+### Input
+
+```
+computer
+Nurtures computer scientists and highly skilled computer engineers
+who will create and exploit knowledge for the new era
+Provides an outstanding computer environment
+END_OF_TEXT
+```
+
+### Output
+
+```
+3
+```

@@ -1,0 +1,33 @@
+Write a program which reads a sequence and prints it in the reverse order.
+
+-----Input-----
+
+The input is given in the following format:
+
+$n$
+$a_1$ $a_2$ . . . $a_n$
+
+$n$ is the size of the sequence and $a_i$ is the $i$th element of the sequence.
+
+$n \leq 100$
+
+$0 \leq a_i < 1000$
+
+-----Output-----
+
+Print the reversed sequence in a line. Print a single space character between adjacent elements (Note that your program should not put a space character after the last element).
+
+-----Example-----
+Input
+5
+1 2 3 4 5
+
+Output
+5 4 3 2 1
+
+Input
+8
+3 3 4 4 5 8 7 9
+
+Output
+9 7 8 5 4 4 3 3

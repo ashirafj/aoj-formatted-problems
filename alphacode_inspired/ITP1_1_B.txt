@@ -1,0 +1,38 @@
+LANGUAGE IS python3
+CORRECT SOLUTION
+Write a program which calculates the cube of a given integer $x$.
+
+Input
+
+An integer $x$ is given in a line.
+
+  * $1 \leq x \leq 100$
+
+Output
+
+Print the cube of $x$ in a line.
+
+Examples
+
+Input
+
+
+2
+
+
+Output
+
+
+8
+
+
+Input
+
+
+3
+
+
+Output
+
+
+27

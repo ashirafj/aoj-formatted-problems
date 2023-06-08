@@ -1,0 +1,41 @@
+# Problem
+
+Write a program which calculates the cube of a given integer $x$.
+
+## Input
+
+An integer $x$ is given in a line.
+
+## Output
+
+Print the cube of $x$ in a line.
+
+## Constraints
+
+$1 \leq x \leq 100$
+
+## Examples
+
+### Input
+
+```
+2
+```
+
+### Output
+
+```
+8
+```
+
+### Input
+
+```
+3
+```
+
+### Output
+
+```
+27
+```

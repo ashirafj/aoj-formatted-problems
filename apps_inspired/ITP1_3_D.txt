@@ -1,0 +1,20 @@
+Write a program which reads three integers $a$, $b$ and $c$, and prints the number of divisors of $c$ between $a$ and $b$.
+
+-----Input-----
+
+Three integers $a$, $b$ and $c$ are given in a line separated by a single space.
+
+$1 \leq a, b, c \leq 10000$
+
+$a \leq b$
+
+-----Output-----
+
+Print the number of divisors in a line.
+
+-----Example-----
+Input
+5 14 80
+
+Output
+3

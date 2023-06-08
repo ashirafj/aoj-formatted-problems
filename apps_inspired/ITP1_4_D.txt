@@ -1,0 +1,21 @@
+Write a program which reads a sequence of $n$ integers $a_i (i = 1, 2, ... n)$, and prints the minimum value, maximum value and sum of the sequence.
+
+-----Input-----
+
+In the first line, an integer $n$ is given. In the next line, $n$ integers $a_i$ are given in a line.
+
+$0 < n \leq 10000$
+
+$-1000000 \leq a_i \leq 1000000$
+
+-----Output-----
+
+Print the minimum value, maximum value and sum in a line. Put a single space between the values.
+
+-----Example-----
+Input
+5
+10 1 5 4 17
+
+Output
+1 17 37
